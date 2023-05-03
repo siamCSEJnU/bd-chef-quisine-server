@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chef_name": "Gordon Ramsay",
-    "chef_img": "https://postimg.cc/5jwvKqTq",
+    "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
     "years_of_experience": 30,
     "number_of_recipes": 100,
     "likes": 5000
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "chef_name": "Jamie Oliver",
-    "chef_img": "https://postimg.cc/bGcSRZgF",
+    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
     "years_of_experience": 25,
     "number_of_recipes": 80,
     "likes": 4000
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "chef_name": "Gordon Ramsay",
-    "chef_img": "https://postimg.cc/5jwvKqTq",
+    "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
     "years_of_experience": 30,
     "number_of_recipes": 100,
     "likes": 5000
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "chef_name": "Jamie Oliver",
-    "chef_img": "https://postimg.cc/bGcSRZgF",
+    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
     "years_of_experience": 25,
     "number_of_recipes": 80,
     "likes": 4000
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "chef_name": "Gordon Ramsay",
-    "chef_img": "https://postimg.cc/5jwvKqTq",
+    "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
     "years_of_experience": 30,
     "number_of_recipes": 100,
     "likes": 5000
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "chef_name": "Jamie Oliver",
-    "chef_img": "https://postimg.cc/bGcSRZgF",
+    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
     "years_of_experience": 25,
     "number_of_recipes": 80,
     "likes": 4000
