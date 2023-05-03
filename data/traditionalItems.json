@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "item_name": "Rice with Chicken",
+    "item_img": "https://i.postimg.cc/W353ZmTf/traditional1.jpg",
+    "likes": 5000
+  },
+  {
+    "id": 2,
+    "item_name": "kola vorta",
+    "item_img": "https://i.postimg.cc/MpJdN1JL/traditional2.jpg",
+    "likes": 4000
+  },
+  {
+    "id": 3,
+    "item_name": "Vaja Pitha",
+    "item_img": "https://i.postimg.cc/fLvfGPZq/traditional3.jpg",
+    "likes": 4000
+  },
+  {
+    "id": 4,
+    "item_name": "Singara",
+    "item_img": "https://i.postimg.cc/ZqLmCrSB/traditional4.jpg",
+    "likes": 4000
+  }
+]
