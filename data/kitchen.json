@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "kitchen_name": "Bengali Bites",
+    "kitchen_img": "https://i.postimg.cc/VvmSqHc1/kitchen1.jpg",
+    "rating": 8
+  },
+  {
+    "id": 2,
+    "kitchen_name": "Dhaka Delights",
+    "kitchen_img": "https://i.postimg.cc/mDXxjtvD/kitchen2.jpg",
+    "rating": 9
+  },
+  {
+    "id": 3,
+    "kitchen_name": "Desi Dine",
+    "kitchen_img": "https://i.postimg.cc/LXnSrtBf/kitchen3.jpg",
+    "rating": 9
+  },
+  {
+    "id": 4,
+    "kitchen_name": "Rooftop Rannaghar",
+    "kitchen_img": "https://i.postimg.cc/VkGH237G/kitchen4.jpg",
+    "rating": 7
+  }
+]
