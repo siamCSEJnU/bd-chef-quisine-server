@@ -1,50 +1,329 @@
 [
   {
     "id": 1,
-    "chef_name": "Gordon Ramsay",
+    "chef_name": "Nayeb Ali",
     "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
-    "years_of_experience": 30,
-    "number_of_recipes": 100,
-    "likes": 5000
+    "years_of_experience": 15,
+    "number_of_recipes": 30,
+    "likes": 5000,
+    "bio": {
+      "designation": "Executive Chef ",
+      "location": "at The Garden Bistro, New York City"
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": " Spicy Biriyani",
+        "ingredients": [
+          "1 kg basmati rice",
+          "1kg chicken or mutton",
+          "2 cups sliced onion",
+          "garlic paste",
+          "ginger paste and chilli"
+        ],
+        "cooking_method": " Rinse the rice thoroughly and soak it in water for 30 minutes.Heat oil in a large pot and fry the onions until golden brown. Remove half of the onions and set aside.Add the meat, ginger paste, garlic paste, yogurt, salt, and whole spices to the pot. Cook until the meat is tender.Remove the meat from the pot and set aside. ",
+        "rating": 4.5,
+        "recipe_img": "https://i.postimg.cc/XvL1XXBd/spicy.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "4-6 pieces of ilish fish",
+          "1 tbsp turmeric powder",
+          "1 tbsp red chili powder",
+          "1/2 cup mustard oil",
+          "2 tbsp mustard paste"
+        ],
+        "cooking_method": "Marinate the fish with turmeric powder, red chili powder, and salt. Let it rest for 15-20 minutes.Heat mustard oil in a pan until it starts smoking.Add the marinated fish to the pan and fry until both sides are golden brown.Add the fried fish to the sauce and let it simmer for a few minutes.Add the green chilies and cook for another minute or so.",
+        "rating": 4.2,
+        "recipe_img": "https://i.postimg.cc/j2Htpsm2/ilish2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pitha",
+        "ingredients": [
+          "1 cup rice flour",
+          "1/2 cup water",
+          "1/4 cup grated coconut",
+          "1/4 cup jaggery or brown sugar",
+          "1/2 tsp cardamom powder"
+        ],
+        "cooking_method": "In a mixing bowl, combine the rice flour, warm water, sugar, and salt to form a smooth batter.Heat a non-stick pan over medium heat and grease it lightly with oil.  Pour a ladleful of batter onto the pan and spread it out into a circle.Cook the rice cake for 1-2 minutes on each side until golden brown.Serve warm with grated coconut on top (optional).",
+        "rating": 4.8,
+        "recipe_img": "https://i.postimg.cc/W353ZmTf/traditional1.jpg"
+      }
+    ]
   },
   {
     "id": 2,
-    "chef_name": "Jamie Oliver",
-    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
-    "years_of_experience": 25,
-    "number_of_recipes": 80,
-    "likes": 4000
+    "chef_name": "Subrata Gosh",
+    "chef_img": "https://i.postimg.cc/tgTjD0b0/newchef1.jpg",
+    "years_of_experience": 20,
+    "number_of_recipes": 50,
+    "likes": 4000,
+    "bio": { "designation": "Chief Chef ", "location": "at The Paris, France" },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Bhuna Khichuri",
+        "ingredients": ["Rice", "Lentils", "Onion", "Garlic", "Ghee"],
+        "cooking_method": "Rinse the rice and lentils and soak for 30 minutes.In a pot, heat the ghee and add sliced onions and garlic.Add the rice and lentils to the pot and fry for a few minutes.Add enough water and bring to a boil, then reduce the heat and simmer for 20-25 minutes until the rice and lentils are cooked.Serve hot with your favorite side dish.",
+        "rating": 4.4,
+        "recipe_img": "https://i.postimg.cc/X7gCR5Rf/vuna.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard oil",
+          "Mustard seeds",
+          "Green chilies",
+          "Salt"
+        ],
+        "cooking_method": "Clean the fish and marinate with salt and turmeric powder.In a pan, heat the mustard oil and add the mustard seeds and green chilies.Add the marinated fish to the pan and fry for a few minutes on each side.Add some water and cover the pan, then simmer for 10-15 minutes until the fish is cooked.Serve hot with steamed rice.",
+        "rating": 4.6,
+        "recipe_img": "https://i.postimg.cc/Mp4NmC3F/ilish3.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Chingri Bhapa (Steamed Shrimp)",
+        "ingredients": [
+          "Shrimp",
+          "Coconut milk",
+          "Mustard paste",
+          "Green chilies",
+          "Salt"
+        ],
+        "cooking_method": "Clean and devein the shrimp.In a bowl, mix together the coconut milk, mustard paste, green chilies, and salt.Add the shrimp to the bowl and mix well.Transfer the mixture to a steamer and steam for 15-20 minutes until the shrimp is cooked.Serve hot with steamed rice",
+        "rating": 4.7,
+        "recipe_img": "https://i.postimg.cc/qqX1fYL4/chingrivapa.jpg"
+      }
+    ]
   },
   {
     "id": 3,
-    "chef_name": "Gordon Ramsay",
-    "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
+    "chef_name": "Hazi Mannan",
+    "chef_img": "https://i.postimg.cc/Bv8zXJsv/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall-1.jpg",
     "years_of_experience": 30,
     "number_of_recipes": 100,
-    "likes": 5000
+    "likes": 5000,
+    "bio": {
+      "designation": "Associate Chef ",
+      "location": "at The La Maridian, Dhaka"
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Aloo Posto ",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes until they are soft, then peel and cut into small pieces.In a pan, heat the mustard oil and add the poppy seeds and green chilies.Grind the mixture to a paste and add it to the pan.Add the potato pieces and salt to the pan and fry for a few minutes.Add some water and simmer for 5-10 minutes until the potatoes are coated in the paste.Serve hot with steamed rice.",
+        "rating": 4.4,
+        "recipe_img": "https://i.postimg.cc/P5ckJpm9/alu-posto.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Mishti Doi (Sweet Yogurt)",
+        "ingredients": [
+          "Milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom powder",
+          "Saffron"
+        ],
+        "cooking_method": "In a pan, heat the milk and bring it to a boil, then reduce the heat and simmer for 30-40 minutes until it thickens.Allow the milk to cool down to room temperatureIn a bowl, mix together the yogurt and sugar.Add the cooled milk to the bowl and mix well.Add some cardamom powder and saffron for flavor.Pour the mixture into individual earthen pots and keep it in a warm place for 6-8 hours until it setsRefrigerate before serving.",
+        "rating": 4.6,
+        "recipe_img": "https://i.postimg.cc/XvLNJ7YC/doi.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Shak Shak",
+        "ingredients": [
+          "2 cups of mixed vegetables ",
+          "1 onion, chopped",
+          "3-4 cloves of garlic, minced",
+          "1 teaspoon of cumin powder",
+          "2 tablespoons of vegetable oil"
+        ],
+        "cooking_method": "Wash and chop the vegetables into small pieces.Heat the oil in a pan over medium-high heat.Add the chopped onion and minced garlic, and sauté until the onion is translucent.Heat oil in a pan and add the chopped onions. Fry until golden brown.Add the chopped vegetables, cumin powder, coriander powder, turmeric powder, red chili powder (if using), and salt to taste.",
+        "rating": 4.7,
+        "recipe_img": "https://i.postimg.cc/qMHFbfrt/shak.jpg"
+      }
+    ]
   },
   {
     "id": 4,
-    "chef_name": "Jamie Oliver",
-    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
-    "years_of_experience": 25,
-    "number_of_recipes": 80,
-    "likes": 4000
+    "chef_name": "Md Reyad Miah",
+    "chef_img": "https://i.postimg.cc/c4s5fRZ2/young-male-cook-wearing-chef-uniform-glasses-holding-plate-pretending-spilling-salt-141793-81484.jpg",
+    "years_of_experience": 12,
+    "number_of_recipes": 40,
+    "likes": 4000,
+    "bio": {
+      "designation": "Executive Chef ",
+      "location": "at The Sonargaon Hotel, BD"
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Chingri Bhaja (Fried Shrimp)",
+        "ingredients": [
+          "1 lb large shrimp",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "salt to taste",
+          " oil for frying"
+        ],
+        "cooking_method": "Marinate the shrimp with turmeric powder, chili powder, and salt for 15 minutes.Fry until golden brown.Add the chopped vegetables, cumin powder, coriander powder, turmeric powder, red chili powder (if using),salt to taste. Heat oil in a pan and fry the shrimp until crispy and golden brown. Serve hot with steamed rice.",
+        "rating": 4.4,
+        "recipe_img": "https://i.postimg.cc/LsH0HmWw/chingrivaja.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+        "ingredients": [
+          " 4 pieces of Hilsa fish",
+          "2 tbsp mustard paste",
+          "o 1 tsp turmeric powdernion",
+          "salt to taste",
+          "1 tbsp mustard oil"
+        ],
+        "cooking_method": "Marinate the fish with turmeric powder and salt for 15 minutes. Heat mustard oil in a pan, add mustard paste and fry for a minute. Add water, salt, and the fish pieces, and cook until the fish is done. Serve hot with steamed rice. ",
+        "rating": 4.6,
+        "recipe_img": "https://i.postimg.cc/j2Htpsm2/ilish2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Patla Khichuri (Light Lentil and Rice)",
+        "ingredients": [
+          " 1 cup basmati rice",
+          "1 cup lentils",
+          "1 onion",
+          "1 tsp cumin powder",
+          "salt to taste"
+        ],
+        "cooking_method": "Soak the rice and lentils for 30 minutes. Heat oil in a pan, add onion and fry until golden brown. Add the cumin powder, rice, lentils, salt, and enough water, and cook until done. Serve hot with a salad.Also any kind of  fried egg,vuna,deshi vorta can be added .",
+        "rating": 4.7,
+        "recipe_img": "https://i.postimg.cc/PfpKnSym/patla.jpg"
+      }
+    ]
   },
   {
     "id": 5,
-    "chef_name": "Gordon Ramsay",
-    "chef_img": "https://i.postimg.cc/nVWkz315/chef1.jpg",
-    "years_of_experience": 30,
+    "chef_name": "Musa Ibrahim",
+    "chef_img": "https://i.postimg.cc/50SStrH0/newchef3.jpg",
+    "years_of_experience": 20,
     "number_of_recipes": 100,
-    "likes": 5000
+    "likes": 5000,
+    "bio": {
+      "designation": "Executive Chef ",
+      "location": "at The Garden Star, Cox's Bazar"
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Dal Puri",
+        "ingredients": [
+          "1 cup yellow lentil",
+          "2 cups flour",
+          "2 tsp salt",
+          "1 tsp baking powder",
+          "Oil for frying"
+        ],
+        "cooking_method": "Soak lentils in water for 3-4 hours, then grind to make a paste.In a separate bowl, mix flour, salt, and baking powder together.Combine the lentil paste with the flour mixture and knead to make a dough.Divide the dough into equal-sized balls, roll out each ball into a thin circle, and deep fry in hot oil until golden brown.Serve hot with chutney or curry.Might be added any kind salad or vegetables to make it healthy.",
+        "rating": 4.4,
+        "recipe_img": "https://i.postimg.cc/tCssMPCm/dalpuri.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Begun Bhaja (Fried Eggplant)",
+        "ingredients": [
+          "2 eggplants",
+          "1 tsp turmeric",
+          "1 tsp chili powder",
+          "Salt to taste",
+          "Oil for frying"
+        ],
+        "cooking_method": "Cut eggplants into thin slices and sprinkle with turmeric, chili powder, and salt.Heat oil in a pan and fry eggplant slices until golden brown.Remove from heat and place on a paper towel to absorb excess oil.Fry onions until golden brown, add chopped tomato and green chili, cook for 5 minutes,When the seeds start to splutter, add the cauliflower florets, turmeric powder, and salt to the pan. Serve hot with a salad.Also any kind of  fried egg,vuna,deshi vorta.",
+        "rating": 4.6,
+        "recipe_img": "https://i.postimg.cc/4N7DMNC1/begun.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fulkopi Bhaja (Stir-fried Cauliflower)",
+        "ingredients": [
+          "1 medium-sized cauliflower, cut into small florets",
+          "2 tbsp mustard oil",
+          "1 tsp cumin seeds",
+          "1/2 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Heat mustard oil in a pan and add cumin seeds.When the seeds start to splutter, add the cauliflower florets, turmeric powder, and salt to the pan.Stir-fry the cauliflower on medium-high heat for 5-6 minutes until it is cooked through and slightly browned.Remove the cauliflower from the pan and serve hot as a side dish.Pour the sauce over the fried fish and serve hot with steamed rice.",
+        "rating": 4.7,
+        "recipe_img": "https://i.postimg.cc/yNLBKQLh/fulkopijpg.jpg"
+      }
+    ]
   },
   {
     "id": 6,
-    "chef_name": "Jamie Oliver",
-    "chef_img": "https://i.postimg.cc/9fzPCT7V/chef2.jpg",
+    "chef_name": "Masum Ahmed",
+    "chef_img": "https://i.postimg.cc/tgy1g4F3/male-chef-cook-wearing-black-uniform-cook-hat-presenting-something-with-arms-standing-pink-backgroun.jpg",
     "years_of_experience": 25,
     "number_of_recipes": 80,
-    "likes": 4000
+    "likes": 4000,
+    "bio": {
+      "designation": "Assistant Chef ",
+      "location": "at The Bangla khabar, India"
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Bhapa Pitha (Steamed Rice Cake)",
+        "ingredients": [
+          "Rice flour",
+          "Coconut milk",
+          "Jaggery or sugar",
+          "Salt",
+          "Water"
+        ],
+        "cooking_method": "Mix rice flour, coconut milk, jaggery/sugar, and salt in a bowl.Add water to the mixture and stir well to make a smooth batter.Grease a round baking pan with oil and pour the batter into it.Steam the batter for 25-30 minutes or until it sets.Remove from the steamer and let it cool for a few minutes before serving..",
+        "rating": 4.4,
+        "recipe_img": "https://i.postimg.cc/Qdwxwxdg/vapapitah.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chotpoti (Spicy Chickpea Snack)",
+        "ingredients": [
+          "Chickpeas",
+          "Tamarind paste",
+          "Red chili powder",
+          "Onion",
+          "Chaat masala"
+        ],
+        "cooking_method": "Soak chickpeas in water overnight and boil until soft.Drain the water and mash the chickpeas.Add tamarind paste, red chili powder, chopped onion, and chaat masala to the mashed chickpeas and mix well.Heat the mixture in a pan for a few minutes.Serve hot with chopped onions and green chilies..",
+        "rating": 4.6,
+        "recipe_img": "https://i.postimg.cc/tJ5Nv6qg/chotpoti.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Grind mustard seeds and green chilies to make a paste.Add turmeric powder and salt to the paste and mix well.Marinate the fish with the paste for 10-15 minutes.Heat oil in a pan and fry the fish until golden brown.Add some water and cover the pan.Serve hot with steamed rice. ",
+        "rating": 4.7,
+        "recipe_img": "https://i.postimg.cc/vZzD1vPT/ilish1.jpg"
+      }
+    ]
   }
 ]
